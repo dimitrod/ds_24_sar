@@ -1,0 +1,15 @@
+# Ignore the venv
+ds24sar/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env

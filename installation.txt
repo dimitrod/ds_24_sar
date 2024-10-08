@@ -1,0 +1,11 @@
+# Create a virtual environment
+python -m venv ds24sar
+
+# Activate the virtual environment
+# On Windows:
+ds24sar\Scripts\activate
+# On Unix or MacOS:
+source ds24sar/bin/activate
+
+# Install dependencies
+pip install watchdog
